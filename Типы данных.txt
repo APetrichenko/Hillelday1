@@ -15,5 +15,9 @@ public class DataTypes {
         
         String str = "Hello";
         
-        
+        //USLOVIA
+        && - aND
+        || - OR
+        ! - NOT
+
         
